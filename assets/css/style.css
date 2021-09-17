@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #C84B31;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -280,7 +280,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #C84B31;
+  background-color: #346751;
   margin: 0 -20px 20px -20px;
 }
 
