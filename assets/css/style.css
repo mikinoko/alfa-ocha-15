@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #000;
+  color: #5C3D2E;
   margin: 0;
 }
 
@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+  background-color: #346751;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #346751;
   width: 12px;
   height: 24px;
 }
@@ -270,7 +270,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: #C84B31;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -280,7 +280,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #C84B31;
   margin: 0 -20px 20px -20px;
 }
 
@@ -289,8 +289,8 @@ button {
   margin-right: 2rem;
 }
 
-.section-title--keycolorlight {
-  background-color: #8cc63f;
+.section-title--midorilight {
+  background-color: #52a17f;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -298,7 +298,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #52a17f;
 }
 
 .section-title--story {
@@ -313,7 +313,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #006837;
+  color: #346751;
 }
 
 .section-title--border::after {
@@ -342,7 +342,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #346751;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -447,7 +447,7 @@ button {
 }
 
 .err-message {
-  color: #c1272d;
+  color: #C84B31;
   font-size: 18px;
   text-align: center;
 }
@@ -459,7 +459,7 @@ button {
 }
 
 .clear-message {
-  background-color: #d9e021;
+  background-color: #346751;
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -468,7 +468,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #006837;
+  color: #ECDBBA;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
