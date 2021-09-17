@@ -238,18 +238,20 @@ button {
 /*********************
 * Color
 *********************/
-.bg-color--keycolor {
+.bg-color--midori {
   background-color: #346751;
 }
 
-.bg-color--subcolor {
+.bg-color--be-ju {
   background-color: #ECDBBA;
 }
 
-.bg-color--gray {
-  background-color: #e6e6e6;
+.bg-color--aka {
+  background-color: #C84B31;
 }
-
+.bg-color--kuro {
+  background-color: #161616;
+}
 /*********************
 * title
 **********************/
